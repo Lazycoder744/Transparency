@@ -7,7 +7,7 @@ Targets Beat Saber Quest `1.40.6_6407`. (Should work with other versions?)
 
 Before launching Beat Saber, enable the MBF permission for passthrough headset cameras and repatch the game. The effect is controlled by the `Transparency` toggle in the gameplay setup menu, use the sliders there to adjust it to whatever you would like
 
-![Image of MBF, open to the Change Permissions/Repatch menu, with the "Passthrough to headset cameras" enabled.](Screenshot_1.png)
+![Image of MBF, open to the Change Permissions/Repatch menu, with the "Passthrough to headset cameras" enabled.](Screenshot.png)
 
 ## Credits
 
