@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+  "_QPVersion": "0.1.1",
+  "name": "${mod_name}",
+  "id": "${mod_id}",
+  "author": "LazyCoder744",
+  "version": "0.1.0",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.40.6_6407",
+  "description": "See EVERYTHING (When playing Beat Saber) - Allows you to use the passthrough camera feed as the environment.",
+  "dependencies": [],
+  "modFiles": ["${binary}"],
+
+  "libraryFiles": [],
+  "fileCopies": []
+}
